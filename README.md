@@ -12,4 +12,10 @@ $ npm install babel-plugin-transform-shorthand-instance
 
 ## Usage
 
-TODO.
+Add the following line to your `.babelrc` file:
+
+```json
+{
+  "plugins": ["transform-shorthand-instance"]
+}
+```
