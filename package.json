@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-transform-shorthand-instance",
   "version": "0.0.0",
-  "description": "",
+  "description": "Babel plugin to enable shorthand instance expressions (similar to @ in CoffeeScript).",
   "author": "Luke Horvat",
   "license": "MIT",
   "repository": {
