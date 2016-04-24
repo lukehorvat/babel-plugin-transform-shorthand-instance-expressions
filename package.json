@@ -1,15 +1,15 @@
 {
-  "name": "babel-plugin-transform-shorthand-instance",
+  "name": "babel-plugin-transform-shorthand-instance-expressions",
   "version": "0.0.0",
   "description": "Babel plugin to enable shorthand instance expressions (similar to @ in CoffeeScript).",
   "author": "Luke Horvat",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukehorvat/babel-plugin-transform-shorthand-instance.git"
+    "url": "https://github.com/lukehorvat/babel-plugin-transform-shorthand-instance-expressions.git"
   },
   "bugs": {
-    "url": "https://github.com/lukehorvat/babel-plugin-transform-shorthand-instance/issues"
+    "url": "https://github.com/lukehorvat/babel-plugin-transform-shorthand-instance-expressions/issues"
   },
   "main": "dist",
   "scripts": {
